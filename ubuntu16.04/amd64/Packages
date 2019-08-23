@@ -884,11 +884,11 @@ Maintainer: NVIDIA CORPORATION <cudatools@nvidia.com>
 Installed-Size: 1974
 Depends: nvidia-container-toolkit (>= 1.0.2), nvidia-container-toolkit (<< 2.0.0), libseccomp2
 Filename: ./nvidia-container-runtime_3.1.1-1_amd64.deb
-Size: 611806
-MD5sum: 3004357116c627dcf2a67642ca605dd5
-SHA1: 2a2612cb12d7f2064cfda6c7155641933b605a51
-SHA256: b56ae48dfd2bcf748c32f5af092c6ce9d9cede313895a07899e5c7d15ee04b25
-SHA512: 7e10073c235913684b60c268fb9c4d75282c8a22c8ddfe7dfd0473b4e8da6cbd9f89616d45ec849df3e4c67b23f4dcec69d4d1cdf403949354209a8cf1ed759f
+Size: 611860
+MD5sum: e3e66a42f2a73fc701cefc77791db862
+SHA1: d53f2a58aa706d8093ce2904166926e7bbc8d275
+SHA256: 7d7b69bc6af3f16552ea9c4c0c297c44d579b7bb9acc0d447a42a18c93a6e35b
+SHA512: e71893b5caf0b25178548d5b62f9068fd4b5dcbd93c506e3003ae2e4d19a0d6919b27dfb66c792ede08ef39eca451a4ac0b15ec0af39e1ebc320a3d69d5ae7b3
 Homepage: https://github.com/NVIDIA/nvidia-container-runtime/wiki
 Description: NVIDIA container runtime
  Provides a modified version of runc allowing users to run GPU enabled
@@ -905,11 +905,11 @@ Depends: libnvidia-container-tools (>= 0.1.0), libnvidia-container-tools (<< 2.0
 Breaks: nvidia-container-runtime (<< 2.0.0), nvidia-container-runtime-hook
 Replaces: nvidia-container-runtime (<< 2.0.0), nvidia-container-runtime-hook
 Filename: ./nvidia-container-toolkit_1.0.2-1_amd64.deb
-Size: 574678
-MD5sum: 54a756d6b8f0dccff4d13288f1004e9e
-SHA1: 8bf71e5430366cf800c8eb9b31f85d7265d0c26e
-SHA256: 836ded576117e21c33bae297b27ec7e7564f457e0cefb8107aa98d0c91856d0a
-SHA512: 536245aeb194eb7a2c3878093fe56b11d0f682641b7f1323ff2d7c100da18b07483a0a7af51a3f48c6d73efa3a64eb2109e5baaddbe8470f2d67aef6a8f46512
+Size: 575892
+MD5sum: b0d788a84e0f0d0f04c4c0abd002913f
+SHA1: 925124d7da22755d8ed0df5abb9c82087b737518
+SHA256: 7654568c85a802cb693ccaf0351afbc4e0cf12379770d6c4314affeeb1090bfa
+SHA512: e2fc43fd9c87c66848ee73837997bacbf4bd8afe3dd6a6df26b2226f810e0d06ca6350aa5f26e33f9f1a59ef651b6a89a1b286165cef456602777979fc7d8517
 Homepage: https://github.com/NVIDIA/nvidia-container-runtime/wiki
 Description: NVIDIA container runtime hook
  Provides a OCI hook to enable GPU support in containers.
