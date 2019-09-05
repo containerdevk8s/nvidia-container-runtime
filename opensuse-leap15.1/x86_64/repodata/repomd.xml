@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+ <revision>1.0</revision>
+<data type="filelists">
+  <checksum type="sha512">212ea73f3284be6855452a023da875fd7d8cb535b27a16ddea5e2864518ee37ab24bfd8eaad4daa00d1354ad698aef997c075bbf9fd7a0e89595fad3d7cd4747</checksum>
+  <open-checksum type="sha512">991e1490091b3b2d9bcb12c638252334a3af2835e6a8bc84db0b8d4c4cb3e3122747bca9699c880de6cf342437ce64a87c0b227a372acfc85fe3eaf701a023a8</open-checksum>
+  <location href="repodata/212ea73f3284be6855452a023da875fd7d8cb535b27a16ddea5e2864518ee37ab24bfd8eaad4daa00d1354ad698aef997c075bbf9fd7a0e89595fad3d7cd4747-filelists.xml.gz"/>
+  <timestamp>1567719116</timestamp>
+  <size>484</size>
+  <open-size>1074</open-size>
+</data>
+<data type="other">
+  <checksum type="sha512">5111b688afd752d99e6630d537cacb0d1a52a6ae9009fbad8b0f16e0beaa8b7d73aad680ccce86f3c70d27c23f84299f5b4d16508a63bff00866b48dbdbaac21</checksum>
+  <open-checksum type="sha512">477230d1117b2b141eff0fb3fd83b3417935a6342f396d3140aa6efad2d2219947f53c61d5bbd9d310fef1fa56a4c46f02bc5671fae45d8d505acd7dbd4701e1</open-checksum>
+  <location href="repodata/5111b688afd752d99e6630d537cacb0d1a52a6ae9009fbad8b0f16e0beaa8b7d73aad680ccce86f3c70d27c23f84299f5b4d16508a63bff00866b48dbdbaac21-other.xml.gz"/>
+  <timestamp>1567719116</timestamp>
+  <size>389</size>
+  <open-size>623</open-size>
+</data>
+<data type="primary">
+  <checksum type="sha512">d65b5a9e77608e877f2a9833bdc863849b05524599d7ec7c5b0c1e7c1907b0442d03791455c86c8822418871b51f8f94f557105ba2e652b9fb62030d42b453d8</checksum>
+  <open-checksum type="sha512">92fc3e08268d876ab6e25d174f0fc4ec0161782161902743399517d3772eecee9580d3cc8983cc74b63efde2387431233d792d03b03dc6e528b5be5bdc97a8db</open-checksum>
+  <location href="repodata/d65b5a9e77608e877f2a9833bdc863849b05524599d7ec7c5b0c1e7c1907b0442d03791455c86c8822418871b51f8f94f557105ba2e652b9fb62030d42b453d8-primary.xml.gz"/>
+  <timestamp>1567719116</timestamp>
+  <size>1128</size>
+  <open-size>3873</open-size>
+</data>
+</repomd>
